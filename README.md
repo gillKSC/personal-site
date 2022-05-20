@@ -1,3 +1,3 @@
 # CV
 
-A one-page website with links to my CV, my Linkedin page and my email.
+A one-page website with links to my CV, my LinkedIn page and my email.
